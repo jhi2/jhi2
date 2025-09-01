@@ -1,11 +1,11 @@
 \Hi 👋 My name is jhi2
 =====================
 
-I love tkinter and I am working on os2
+Hello, gang! I was very inactive on my github, but i will try to be more consistent.
 
 * ✉️  You can contact me at [johndrostan@outlook.com](mailto:johndrostan@outlook.com)
-* 🧠  I'm learning Tkinter
-* 🤝  I'm open to collaborating on TTK themes
+* 🧠  I'm working on a product called Horizon.
+* 🤝  I'm open to collaborating on anything python.
 * ⚡  I love Windows 12
 
 <a href="https://www.github.com/jhi2" target="_blank" rel="noreferrer"><img
